@@ -1,0 +1,2 @@
+3	reporting util	autorep -J ALL	autorep	c:/video/autorep
+4	rettporting util	autorep -J ALL	autorep	c:/video/autorep

@@ -1,0 +1,5 @@
+1	Maintain the Event Server	Single Event Server Mode. Dual Event Server Mode. Define Event Server Information	/static/aedb/html/overview.html	\N	../static/aedb/icon/server.png
+2	Configure	Configure CA Workload Automation AE to Run in Dual Event Server Mode	/static/aedb/html/configure.html	\N	../static/aedb/icon/configure.png
+3	AEDB Tables current size	We would like to verify and monitor the number of rows in the main tables in our AEDB database.	/static/aedb/html/tables.html	\N	../static/aedb/icon/size.png
+4	Rebuild Table Indexes	Rebuild Tables Indexes for a CA Workload Automation AE database on Oracle	/static/aedb/html/rebuild.html	\N	../static/aedb/icon/rebuild.png
+5	Tune the Oracle Server	Configure the Oracle database. Tune the Oracle database	/static/aedb/html/tune.html	\N	../static/aedb/icon/tune.jpg

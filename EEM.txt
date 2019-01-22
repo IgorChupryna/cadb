@@ -1,0 +1,7 @@
+1	Services and ports	Stop/Start/Status CA iTechnology iGateway services	/static/eem/html/services.html	../static/eem/video/services.mp4	../static/eem/icon/services.png
+2	Identity Self Administration	Reset EiamAdmin Password. Unlock the accounts	/static/eem/html/self.html	../static/eem/video/self.mp4	../static/eem/icon/self.png
+3	Manage Identities	Store data internally in CA EEM, Refer data from an external LDAP	/static/eem/html/identities.html	../static/eem/video/identities.mp4	../static/eem/icon/identities.png
+4	Mange Access Policies	Policy Overview, How Policies Are Evaluated, Screens and Video	/static/eem/html/policies.html	../static/eem/video/policies.mp4	../static/eem/icon/policies.jpg
+5	Configuration	You can assign a user with different permissions to access applications	/static/eem/html/configuration.html	../static/eem/video/configuration.mp4	../static/eem/icon/configuration.png
+6	Export Application	Safex is a Command Line Interface (CLI) provided by CA EEM	/static/eem/html/appexport.html	../static/eem/video/appexport.mp4	../static/eem/icon/appexport.jpg
+7	User Store (LDAP)	About reference to a global user or global group from an external LDAP	/static/eem/html/ldap.html	../static/eem/video/ldap.mp4	../static/eem/icon/ldap.png

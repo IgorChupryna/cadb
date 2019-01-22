@@ -1,0 +1,10 @@
+25	i@gmail.com	new_user	7ca22d44703659029fd5328f0ccbac8c97ab769c		USER	../static/users/icons/1.jpg
+181	\N	admin	5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8	\N	ADMIN	../static/users/icons/1.jpg
+182	\N	user	5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8	\N	USER	../static/users/icons/1.jpg
+183	ihor.chupryna@ukrsibbank.com	autosys	ada39be1d9c166bc6b2c7311876b589fb88bf011	0637100950	USER	../static/users/icons/2.jpg
+184	chuprina.ihor@gmail.com	chupryna-iv	657fc0e25fbb62fe69fd9e2bff7a23b165c9187b	0637100950	USER	../static/users/icons/7.png
+185		chup	657fc0e25fbb62fe69fd9e2bff7a23b165c9187b		USER	\N
+186		chupryna-iv1	657fc0e25fbb62fe69fd9e2bff7a23b165c9187b		USER	\N
+187		eiamadmin	1c136e5f050555dae34ae467e28c7674cbe1556a		USER	\N
+188		ee	1f444844b1ca616009c2b0e3564fecc065872b5b		USER	../static/users/icons/2.jpg
+189	guzir@bigmir.net	adm	d033e22ae348aeb5660fc2140aec35850c4da997	9861070	USER	../static/users/icons/7.png

@@ -1,0 +1,7 @@
+1	Control the Agent	Learn how to start and stop the agent, as well as check its status	/static/agent/html/control.html	../static/agent/video/control.mp4	../static/agent/icon/control.png
+2	Configure Agent Parameters	To configure agent parameters, edit the agentparm.txt file	/static/agent/html/confAgentParam.html	../static/agent/video/parameters.mp4	../static/agent/icon/parameters.png
+3	Configure  SSA, Scheduler 	Socket types for communication, specify a main and auxiliary socke	/static/agent/html/confSchedSsa.html	../static/agent/video/scheduler.mp4	../static/agent/icon/scheduler.png
+4	Configure other services	Use PAM to Validate User Credentials, Set Up Wake On LAN	/static/agent/html/confOther.html	../static/agent/video/other.mp4	../static/agent/icon/other.png
+5	Maintain Spool and Log Files	Spool File Maintenance, Log File Maintenance	/static/agent/html/spoolLog.html	../static/agent/video/spool.mp4	../static/agent/icon/spool.jpg
+6	Set Up Security	Set Up Security between the Agent and the Scheduling Manager	/static/agent/html/security.html	../static/agent/video/security.mp4	../static/agent/icon/security.jpg
+7	Reference	CA WA Agent for UNIX, Linux, Windows Agent Parameters	/static/agent/html/reference.html	../static/agent/video/reference.mp4	../static/agent/icon/reference.png

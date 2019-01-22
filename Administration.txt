@@ -1,0 +1,5 @@
+1	Configuration AE	Includes procedures to manage AE with file config.$INSTANCE	/static/adm/html/configuration_ae.html	../static/adm/video/configAE.mp4	../static/adm/icon/iconAdmAE.png
+2	Start and Stop system	Start/stop/status Agent, Application server, Scheduler	/static/adm/html/start_stop.html	../static/adm/video/StartStop.mp4	../static/adm/icon/iconAdmStart.jpg
+3	Configuration CCS	This article about manage SSA, CAPKI	/static/adm/html/configuration_ccs.html	../static/adm/video/CsapEdit.mp4	../static/adm/icon/iconAdmSocket.png
+4	Event Management	The article about config process event/action 	/static/adm/html/event_managment.html	../static/adm/video/EM.mp4	../static/adm/icon/iconAdmAction.jpg
+5	Variables	$HOSTNAME.bash and profile.CA  with  Environment Variables	/static/adm/html/variables.html	../static/adm/video/GlobalVar.mp4	../static/adm/icon/iconAdmVar.png
