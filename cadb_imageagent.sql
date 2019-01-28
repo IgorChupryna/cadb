@@ -1,0 +1,37 @@
+-- MySQL dump 10.13  Distrib 8.0.13, for Win64 (x86_64)
+--
+-- Host: localhost    Database: cadb
+-- ------------------------------------------------------
+-- Server version	8.0.13
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+ SET NAMES utf8 ;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Dumping data for table `imageagent`
+--
+
+LOCK TABLES `imageagent` WRITE;
+/*!40000 ALTER TABLE `imageagent` DISABLE KEYS */;
+INSERT INTO `imageagent` VALUES (1,1,'Autorep ALL agent and select one of this','/static/agent/image/control-0-01-01-033.jpg'),(2,1,'Autoping this agent','/static/agent/image/control-0-01-14-844.jpg'),(3,1,'Go to host where installed agent','/static/agent/image/control-0-02-44-971.jpg'),(4,1,'Change directory to agent home','/static/agent/image/control-0-03-32-062.jpg'),(5,1,'Print file status','/static/agent/image/control-0-03-41-696.jpg'),(6,1,'Print status from unicntrl','/static/agent/image/control-0-03-58-205.jpg'),(7,1,'Unicntrl Stop Agent','/static/agent/image/control-0-04-35-317.jpg'),(8,1,'Print Status Agent - Inactive','/static/agent/image/control-0-04-59-424.jpg'),(9,1,'Description service waae_agent','/static/agent/image/control-0-05-18-887.jpg'),(10,1,'Unicntrl Start Agent','/static/agent/image/control-0-06-42-650.jpg'),(11,1,'Service waae_agent status','/static/agent/image/control-0-06-52-070.jpg'),(12,2,'Print file status ','/static/agent/image/parameters-0-00-13-473.jpg'),(13,2,'Show status agent','/static/agent/image/parameters-0-00-21-503.jpg'),(14,2,'Unicntrl Stop Agent','/static/agent/image/parameters-0-02-19-653.jpg'),(15,2,'Open-edit file param agent - Readonly','/static/agent/image/parameters-0-02-39-152.jpg'),(16,2,'Go to agent with true permision','/static/agent/image/parameters-0-04-36-820.jpg'),(17,2,'Stop agent and  Print status file','/static/agent/image/parameters-0-05-03-165.jpg'),(18,2,'Edit one field on param file','/static/agent/image/parameters-0-05-13-140.jpg'),(19,2,'Start agent','/static/agent/image/parameters-0-05-35-806.jpg'),(20,3,'Shutdown the agent','/static/agent/image/scheduler-0-00-16-775.jpg'),(21,3,'View communication options in param file','/static/agent/image/scheduler-0-00-42-111.jpg'),(22,3,'Select port field','/static/agent/image/scheduler-0-01-16-699.jpg'),(23,3,'Edit this param','/static/agent/image/scheduler-0-01-21-611.jpg'),(24,3,'Start the agent','/static/agent/image/scheduler-0-01-26-011.jpg'),(25,3,'Start Monitoring and see communication failed','/static/agent/image/scheduler-0-01-44-288.jpg'),(26,3,'Revert port param','/static/agent/image/scheduler-0-02-27-242.jpg'),(27,3,'Start agent and see good work','/static/agent/image/scheduler-0-02-37-439.jpg'),(28,4,'Example: script password with \"Qwerty+1\"','/static/agent/image/other-0-00-16-192.jpg'),(29,4,'This encrypted pass paste to chkusr with login','/static/agent/image/other-0-00-38-037.jpg'),(30,4,'This encrypted pass paste to chkusr with sshd','/static/agent/image/other-0-00-44-647.jpg'),(31,4,'Stop agent','/static/agent/image/other-0-02-20-005.jpg'),(32,4,'Print file param file','/static/agent/image/other-0-02-30-894.jpg'),(33,4,'Add new param plugin WOL','/static/agent/image/other-0-04-18-060.jpg'),(34,4,'Start agent and Check status','/static/agent/image/other-0-04-47-560.jpg'),(35,5,'Change dir spool agent ','/static/agent/image/spool-0-00-33-859.jpg'),(36,5,'Print spool field in param file','/static/agent/image/spool-0-01-13-344.jpg'),(37,5,'Print log field in param file','/static/agent/image/spool-0-02-19-662.jpg'),(38,5,'Select test and Start','/static/agent/image/spool-0-03-40-866.jpg'),(39,5,'Open receiver log','/static/agent/image/spool-0-04-13-636.jpg'),(40,5,'List all logs','/static/agent/image/spool-0-04-24-902.jpg'),(41,5,'Open transmitter log','/static/agent/image/spool-0-04-33-672.jpg'),(42,6,'Send event agent to OFF line mode','/static/agent/image/security-0-00-47-427.jpg'),(43,6,'Stop agent in distanation host','/static/agent/image/security-0-01-13-672.jpg'),(44,6,'Description script \"keygen\"','/static/agent/image/security-0-01-45-768.jpg'),(45,6,'Execute \"keygen\" with key and cipher','/static/agent/image/security-0-02-55-935.jpg'),(46,6,'Check agent\'s status ','/static/agent/image/security-0-03-41-452.jpg'),(47,6,'Send event agent to ON line mode','/static/agent/image/security-0-03-50-247.jpg'),(48,6,'Autorep all agents','/static/agent/image/security-0-03-53-920.jpg'),(49,7,'Print all active params in config file','/static/agent/image/reference-0-00-53-040.jpg'),(50,7,'Select one and copy name','/static/agent/image/reference-0-01-07-885.jpg'),(51,7,'Search  description by this param','/static/agent/image/reference-0-01-30-011.jpg'),(52,7,'Select value','/static/agent/image/reference-0-01-58-926.jpg'),(53,7,'Select one and copy name','/static/agent/image/reference-0-02-04-805.jpg'),(54,7,'Search  description by this param','/static/agent/image/reference-0-02-10-953.jpg');
+/*!40000 ALTER TABLE `imageagent` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2019-01-28 12:43:53
